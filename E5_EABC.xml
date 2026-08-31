@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pasteles>
+    <pastel>
+        <Nombre>Fresa</Nombre>
+        <Ingredientes>2 tazas de harina, 1 taza de azúcar, 2 huevos, fresas y leche</Ingredientes>
+        <Instrucciones>Mezclar los ingredientes, agregar las fresas y hornear.</Instrucciones>
+        <TiempoCoccion>40 minutos</TiempoCoccion>
+        <NivelDeDificultad>Facil</NivelDeDificultad>
+    </pastel>
+
+    <pastel>
+        <Nombre>Coco</Nombre>
+        <Ingredientes>2 tazas de harina, coco rallado, 3 huevos, azúcar y leche</Ingredientes>
+        <Instrucciones>Mezclar todos los ingredientes y colocar la mezcla en un molde.</Instrucciones>
+        <TiempoCoccion>35 minutos</TiempoCoccion>
+        <NivelDeDificultad>Facil</NivelDeDificultad>
+    </pastel>
+
+    <pastel>
+        <Nombre>Red Velvet</Nombre>
+        <Ingredientes>Harina, azúcar, cacao, huevos, leche y colorante rojo</Ingredientes>
+        <Instrucciones>Mezclar los ingredientes hasta obtener una mezcla uniforme y hornear.</Instrucciones>
+        <TiempoCoccion>45 minutos</TiempoCoccion>
+        <NivelDeDificultad>Medio</NivelDeDificultad>
+    </pastel>
+
+    <pastel>
+        <Nombre>Banano</Nombre>
+        <Ingredientes>2 tazas de harina, 3 bananos, azúcar, mantequilla y 2 huevos</Ingredientes>
+        <Instrucciones>Triturar los bananos, mezclar con los demás ingredientes y hornear.</Instrucciones>
+        <TiempoCoccion>40 minutos</TiempoCoccion>
+        <NivelDeDificultad>Facil</NivelDeDificultad>
+    </pastel>
+
+    <pastel>
+        <Nombre>Oreo</Nombre>
+        <Ingredientes>Galletas Oreo, harina, azúcar, huevos, leche y mantequilla</Ingredientes>
+        <Instrucciones>Triturar las galletas, mezclar los ingredientes y hornear.</Instrucciones>
+        <TiempoCoccion>35 minutos</TiempoCoccion>
+        <NivelDeDificultad>Medio</NivelDeDificultad>
+    </pastel>
+</pasteles>

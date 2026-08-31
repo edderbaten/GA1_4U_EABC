@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProyectosSoftware>
+    <ProyectoSoftware>
+        <NombreProyecto>Sistema de Biblioteca</NombreProyecto>
+        <Objetivos>Administrar libros, usuarios y prestamos de una biblioteca.</Objetivos>
+        <TecnologiasUtilizadas>Java, MySQL, Git.</TecnologiasUtilizadas>
+        <MiembrosEquipo>Pedro Lopez (Lider), Andrea Ruiz (Backend).</MiembrosEquipo>
+        <FechaEntrega>20 de marzo de 2026.</FechaEntrega>
+    </ProyectoSoftware>
+
+    <ProyectoSoftware>
+        <NombreProyecto>Tienda de Ropa Online</NombreProyecto>
+        <Objetivos>Permitir comprar productos y administrar pedidos desde internet.</Objetivos>
+        <TecnologiasUtilizadas>HTML, CSS, JavaScript, MySQL.</TecnologiasUtilizadas>
+        <MiembrosEquipo>Mario Garcia (Lider), Sofia Diaz (Frontend).</MiembrosEquipo>
+        <FechaEntrega>10 de abril de 2026.</FechaEntrega>
+    </ProyectoSoftware>
+
+    <ProyectoSoftware>
+        <NombreProyecto>Control de Asistencia</NombreProyecto>
+        <Objetivos>Registrar la asistencia y horarios de estudiantes.</Objetivos>
+        <TecnologiasUtilizadas>Java, MySQL, Bootstrap.</TecnologiasUtilizadas>
+        <MiembrosEquipo>Diego Perez (Lider), Ana Morales (Backend).</MiembrosEquipo>
+        <FechaEntrega>25 de mayo de 2026.</FechaEntrega>
+    </ProyectoSoftware>
+
+    <ProyectoSoftware>
+        <NombreProyecto>Reservacion de Hotel</NombreProyecto>
+        <Objetivos>Gestionar habitaciones, clientes y reservaciones.</Objetivos>
+        <TecnologiasUtilizadas>Python, Flask, MySQL.</TecnologiasUtilizadas>
+        <MiembrosEquipo>Jose Ramirez (Lider), Lucia Gomez (Frontend).</MiembrosEquipo>
+        <FechaEntrega>18 de junio de 2026.</FechaEntrega>
+    </ProyectoSoftware>
+
+    <ProyectoSoftware>
+        <NombreProyecto>Aplicacion de Tareas</NombreProyecto>
+        <Objetivos>Organizar actividades y controlar tareas pendientes.</Objetivos>
+        <TecnologiasUtilizadas>React, Node.js, MongoDB.</TecnologiasUtilizadas>
+        <MiembrosEquipo>Fernando Castillo (Lider), Maria Lopez (Backend).</MiembrosEquipo>
+        <FechaEntrega>22 de julio de 2026.</FechaEntrega>
+    </ProyectoSoftware>
+</ProyectosSoftware>

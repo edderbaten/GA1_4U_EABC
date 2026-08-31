@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<libros>
+    <libro titulo="Harry Potter y la piedra filosofal" autor="J.K. Rowling" año="1997" />
+    <libro titulo="El principito" autor="Antoine de Saint-Exupéry" año="1943" />
+    <libro titulo="Cien años de soledad" autor="Gabriel García Márquez" año="1967" />
+    <libro titulo="1984" autor="George Orwell" año="1949" />
+    <libro titulo="El Hobbit" autor="J.R.R. Tolkien" año="1937" />
+    <libro titulo="It" autor="Stephen King" año="1986" />
+    <libro titulo="Los juegos del hambre" autor="Suzanne Collins" año="2008" />
+    <libro titulo="Divergente" autor="Veronica Roth" año="2011" />
+    <libro titulo="Percy Jackson y el ladrón del rayo" autor="Rick Riordan" año="2005" />
+    <libro titulo="Las crónicas de Narnia" autor="C.S. Lewis" año="1950" />
+</libros>

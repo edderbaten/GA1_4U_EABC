@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ensaladas>
+    <ensalada>
+        <Nombre>Pollo y Aguacate</Nombre>
+        <Ingredientes>
+            150g de pollo
+            1 aguacate
+            100g de lechuga
+            1 tomate
+            1 cucharada de aceite de oliva
+        </Ingredientes>
+        <Instrucciones>
+            Cocina el pollo y córtalo en tiras.
+            Corta el aguacate y el tomate.
+            Mezcla todos los ingredientes.
+        </Instrucciones>
+        <Calorias>350 kcal por porcion</Calorias>
+        <TipoDeEnsalada>Ensalada proteica</TipoDeEnsalada>
+    </ensalada>
+
+    <ensalada>
+        <Nombre>Manzana y Nuez</Nombre>
+        <Ingredientes>
+            1 manzana
+            50g de nueces
+            100g de lechuga
+            30g de queso
+            1 cucharada de vinagre
+        </Ingredientes>
+        <Instrucciones>
+            Corta la manzana.
+            Lava la lechuga.
+            Mezcla con las nueces y el queso.
+        </Instrucciones>
+        <Calorias>280 kcal por porcion</Calorias>
+        <TipoDeEnsalada>Ensalada frutal</TipoDeEnsalada>
+    </ensalada>
+
+    <ensalada>
+        <Nombre>Atun y Tomate</Nombre>
+        <Ingredientes>
+            100g de atun
+            2 tomates
+            100g de lechuga
+            1 cebolla
+            aceite de oliva
+        </Ingredientes>
+        <Instrucciones>
+            Corta los tomates y la cebolla.
+            Agrega el atun y la lechuga.
+            Mezcla con aceite de oliva.
+        </Instrucciones>
+        <Calorias>300 kcal por porcion</Calorias>
+        <TipoDeEnsalada>Ensalada proteica</TipoDeEnsalada>
+    </ensalada>
+
+    <ensalada>
+        <Nombre>Vegetales</Nombre>
+        <Ingredientes>
+            1 zanahoria
+            1 pepino
+            1 tomate
+            lechuga
+            aceite de oliva
+        </Ingredientes>
+        <Instrucciones>
+            Lava y corta todos los vegetales.
+            Mezcla los ingredientes y agrega aceite de oliva.
+        </Instrucciones>
+        <Calorias>180 kcal por porcion</Calorias>
+        <TipoDeEnsalada>Ensalada fresca</TipoDeEnsalada>
+    </ensalada>
+
+    <ensalada>
+        <Nombre>Pasta y Pollo</Nombre>
+        <Ingredientes>
+            150g de pasta
+            100g de pollo
+            1 tomate
+            maiz
+            mayonesa
+        </Ingredientes>
+        <Instrucciones>
+            Cocina la pasta y el pollo.
+            Mezcla con tomate, maiz y mayonesa.
+        </Instrucciones>
+        <Calorias>420 kcal por porcion</Calorias>
+        <TipoDeEnsalada>Ensalada completa</TipoDeEnsalada>
+    </ensalada>
+</ensaladas>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<catalogo>
+
+    <producto>
+        <nombre>iPhone 15</nombre>
+        <precio>799.00</precio>
+        <descripcion>Teléfono inteligente de alto rendimiento para uso diario.</descripcion>
+        <caracteristicas>
+            <caracteristica nombre="Pantalla">OLED de 6.1 pulgadas</caracteristica>
+            <caracteristica nombre="Procesador">Apple A16 Bionic</caracteristica>
+            <caracteristica nombre="Almacenamiento">128 GB</caracteristica>
+            <caracteristica nombre="Camara">48 MP</caracteristica>
+        </caracteristicas>
+    </producto>
+
+    <producto>
+        <nombre>HP Pavilion 15</nombre>
+        <precio>650.00</precio>
+        <descripcion>Laptop diseñada para estudio, trabajo y entretenimiento.</descripcion>
+        <caracteristicas>
+            <caracteristica nombre="Procesador">Intel Core i5</caracteristica>
+            <caracteristica nombre="Memoria RAM">16 GB</caracteristica>
+            <caracteristica nombre="Almacenamiento">512 GB SSD</caracteristica>
+            <caracteristica nombre="Pantalla">15.6 pulgadas</caracteristica>
+        </caracteristicas>
+    </producto>
+
+    <producto>
+        <nombre>PlayStation 5</nombre>
+        <precio>499.00</precio>
+        <descripcion>Consola de videojuegos de nueva generación.</descripcion>
+        <caracteristicas>
+            <caracteristica nombre="Almacenamiento">825 GB SSD</caracteristica>
+            <caracteristica nombre="Resolucion">4K</caracteristica>
+            <caracteristica nombre="Control">DualSense</caracteristica>
+            <caracteristica nombre="Conexion">Wi-Fi</caracteristica>
+        </caracteristicas>
+    </producto>
+
+    <producto>
+        <nombre>Samsung Smart TV</nombre>
+        <precio>550.00</precio>
+        <descripcion>Televisor inteligente para contenido multimedia y streaming.</descripcion>
+        <caracteristicas>
+            <caracteristica nombre="Pantalla">50 pulgadas</caracteristica>
+            <caracteristica nombre="Resolucion">4K UHD</caracteristica>
+            <caracteristica nombre="Conexion">Wi-Fi</caracteristica>
+            <caracteristica nombre="Puertos">HDMI y USB</caracteristica>
+        </caracteristicas>
+    </producto>
+
+    <producto>
+        <nombre>Nintendo Switch OLED</nombre>
+        <precio>349.00</precio>
+        <descripcion>Consola portátil y de sobremesa para videojuegos.</descripcion>
+        <caracteristicas>
+            <caracteristica nombre="Pantalla">OLED de 7 pulgadas</caracteristica>
+            <caracteristica nombre="Almacenamiento">64 GB</caracteristica>
+            <caracteristica nombre="Controles">Joy-Con</caracteristica>
+            <caracteristica nombre="Conexion">Wi-Fi</caracteristica>
+        </caracteristicas>
+    </producto>
+
+    <producto>
+        <nombre>Logitech G502</nombre>
+        <precio>79.00</precio>
+        <descripcion>Mouse diseñado para videojuegos y tareas de precisión.</descripcion>
+        <caracteristicas>
+            <caracteristica nombre="Sensor">Optico</caracteristica>
+            <caracteristica nombre="DPI">25600</caracteristica>
+            <caracteristica nombre="Conexion">USB</caracteristica>
+            <caracteristica nombre="Botones">11 programables</caracteristica>
+        </caracteristicas>
+    </producto>
+
+    <producto>
+        <nombre>JBL Tune 720BT</nombre>
+        <precio>69.00</precio>
+        <descripcion>Audífonos inalámbricos para música y entretenimiento.</descripcion>
+        <caracteristicas>
+            <caracteristica nombre="Conexion">Bluetooth</caracteristica>
+            <caracteristica nombre="Bateria">Hasta 76 horas</caracteristica>
+            <caracteristica nombre="Tipo">Diadema</caracteristica>
+            <caracteristica nombre="Carga">USB-C</caracteristica>
+        </caracteristicas>
+    </producto>
+
+    <producto>
+        <nombre>Canon EOS R50</nombre>
+        <precio>679.00</precio>
+        <descripcion>Cámara digital para fotografía y creación de contenido.</descripcion>
+        <caracteristicas>
+            <caracteristica nombre="Sensor">24.2 MP</caracteristica>
+            <caracteristica nombre="Video">4K</caracteristica>
+            <caracteristica nombre="Pantalla">Táctil</caracteristica>
+            <caracteristica nombre="Conexion">Wi-Fi</caracteristica>
+        </caracteristicas>
+    </producto>
+
+</catalogo>

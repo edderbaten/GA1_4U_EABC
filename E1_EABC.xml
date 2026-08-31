@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<biblioteca id="B001">
+    <libro>
+        <titulo>Programación en Java</titulo>
+        <autor>Juan Perez</autor>
+        <precio moneda="USD">25.50</precio>
+        <publicacion>2023-09-01</publicacion>
+    </libro>
+</biblioteca>

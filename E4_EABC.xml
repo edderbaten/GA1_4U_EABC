@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Edder Baten -->
+
+<empleados>
+    <empleado>
+        <nombre>Daniel</nombre>
+        <apellido>Ramirez</apellido>
+        <edad>18</edad>
+        <departamento>Desarrollo</departamento>
+        <cargo>Programador Junior</cargo>
+        <estado>Activo</estado>
+    </empleado>
+
+    <empleado>
+        <nombre>Sofia</nombre>
+        <apellido>Lopez</apellido>
+        <edad>19</edad>
+        <departamento>Soporte</departamento>
+        <cargo>Tecnico de Sistemas</cargo>
+        <estado>Activo</estado>
+    </empleado>
+
+    <empleado>
+        <nombre>Carlos</nombre>
+        <apellido>Morales</apellido>
+        <edad>20</edad>
+        <departamento>Diseño</departamento>
+        <cargo>Diseñador Web</cargo>
+        <estado>Activo</estado>
+    </empleado>
+</empleados>

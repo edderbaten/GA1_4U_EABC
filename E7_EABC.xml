@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Sopas>
+    <Sopa>
+        <Nombre>Crema de Papa</Nombre>
+        <Ingredientes>
+            4 papas
+            1 cebolla
+            1 litro de caldo
+            1 taza de leche
+            sal y pimienta
+        </Ingredientes>
+        <Instrucciones>
+            Cocina las papas y la cebolla.
+            Licua los ingredientes y agrega la leche.
+        </Instrucciones>
+        <TiempoDePreparacion>35 minutos</TiempoDePreparacion>
+        <Sabor>Cremoso</Sabor>
+    </Sopa>
+
+    <Sopa>
+        <Nombre>Sopa de Frijol</Nombre>
+        <Ingredientes>
+            2 tazas de frijoles
+            1 tomate
+            1 cebolla
+            1 litro de agua
+            sal
+        </Ingredientes>
+        <Instrucciones>
+            Cocina los frijoles.
+            Agrega tomate y cebolla.
+            Cocina hasta obtener la consistencia deseada.
+        </Instrucciones>
+        <TiempoDePreparacion>50 minutos</TiempoDePreparacion>
+        <Sabor>Tradicional</Sabor>
+    </Sopa>
+
+    <Sopa>
+        <Nombre>Crema de Brocoli</Nombre>
+        <Ingredientes>
+            2 tazas de brocoli
+            1 taza de leche
+            1 cebolla
+            500 ml de caldo
+            sal y pimienta
+        </Ingredientes>
+        <Instrucciones>
+            Cocina el brocoli y la cebolla.
+            Licua con el caldo y agrega la leche.
+        </Instrucciones>
+        <TiempoDePreparacion>30 minutos</TiempoDePreparacion>
+        <Sabor>Suave y cremoso</Sabor>
+    </Sopa>
+
+    <Sopa>
+        <Nombre>Sopa de Verduras</Nombre>
+        <Ingredientes>
+            2 zanahorias
+            2 papas
+            1 calabacin
+            1 litro de caldo
+            sal y pimienta
+        </Ingredientes>
+        <Instrucciones>
+            Corta las verduras.
+            Agregalas al caldo y cocina hasta que estén suaves.
+        </Instrucciones>
+        <TiempoDePreparacion>40 minutos</TiempoDePreparacion>
+        <Sabor>Ligero</Sabor>
+    </Sopa>
+
+    <Sopa>
+        <Nombre>Crema de Champiñones</Nombre>
+        <Ingredientes>
+            300g de champiñones
+            1 cebolla
+            1 taza de crema
+            500 ml de caldo
+            sal y pimienta
+        </Ingredientes>
+        <Instrucciones>
+            Cocina los champiñones y la cebolla.
+            Licua con el caldo y agrega la crema.
+        </Instrucciones>
+        <TiempoDePreparacion>30 minutos</TiempoDePreparacion>
+        <Sabor>Cremoso y suave</Sabor>
+    </Sopa>
+</Sopas>

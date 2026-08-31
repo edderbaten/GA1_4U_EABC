@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TargetasGraficas>
+    <TargetaGrafica>
+        <Fabricante>NVIDIA</Fabricante>
+        <Modelo>GeForce RTX 4070</Modelo>
+        <Memoria>12 GB GDDR6X</Memoria>
+        <ResolucionMaxima>7680 x 4320</ResolucionMaxima>
+        <Puertos>3 x DisplayPort, 1 x HDMI</Puertos>
+    </TargetaGrafica>
+
+    <TargetaGrafica>
+        <Fabricante>AMD</Fabricante>
+        <Modelo>Radeon RX 7800 XT</Modelo>
+        <Memoria>16 GB GDDR6</Memoria>
+        <ResolucionMaxima>7680 x 4320</ResolucionMaxima>
+        <Puertos>2 x DisplayPort, 2 x HDMI</Puertos>
+    </TargetaGrafica>
+
+    <TargetaGrafica>
+        <Fabricante>NVIDIA</Fabricante>
+        <Modelo>GeForce RTX 4060</Modelo>
+        <Memoria>8 GB GDDR6</Memoria>
+        <ResolucionMaxima>7680 x 4320</ResolucionMaxima>
+        <Puertos>3 x DisplayPort, 1 x HDMI</Puertos>
+    </TargetaGrafica>
+
+    <TargetaGrafica>
+        <Fabricante>Intel</Fabricante>
+        <Modelo>Arc A750</Modelo>
+        <Memoria>8 GB GDDR6</Memoria>
+        <ResolucionMaxima>7680 x 4320</ResolucionMaxima>
+        <Puertos>3 x DisplayPort, 1 x HDMI</Puertos>
+    </TargetaGrafica>
+
+    <TargetaGrafica>
+        <Fabricante>AMD</Fabricante>
+        <Modelo>Radeon RX 7700 XT</Modelo>
+        <Memoria>12 GB GDDR6</Memoria>
+        <ResolucionMaxima>7680 x 4320</ResolucionMaxima>
+        <Puertos>3 x DisplayPort, 1 x HDMI</Puertos>
+    </TargetaGrafica>
+</TargetasGraficas>
